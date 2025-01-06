@@ -3,11 +3,11 @@ name: Pages
 on:
   push:
     branches:
-      - gh-pages # 我们设置的分支是 gh-pages
+      - gh-pages
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04 # 明确指定版本，避免潜在问题
     steps:
       - uses: actions/checkout@v4
         with:
@@ -17,7 +17,7 @@ jobs:
       - name: Use Node.js 20
         uses: actions/setup-node@v4
         with:
-          node-version: "20" # 最新稳定版本即可
+          node-version: "20"
 
       - name: Cache NPM dependencies
         uses: actions/cache@v4
@@ -36,17 +36,14 @@ jobs:
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./public # 指向生成的静态文件目录
+          path: ./public
 
   deploy:
     needs: build
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04 # 明确指定版本
     permissions:
       pages: write
       id-token: write
-    environment:
-      name: github-pages # 如果环境启用了保护规则
     steps:
       - name: Deploy to GitHub Pages
-        id: deployment
         uses: actions/deploy-pages@v4
