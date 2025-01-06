@@ -7,24 +7,24 @@ menu:
   # 友链:
   #   友人帐: /link/ || anzhiyu-icon-link
   #   朋友圈: /fcircle/ || anzhiyu-icon-artstation
-  #   留言板: /comments/ || anzhiyu-icon-envelope
+     留言板: /comments/ || anzhiyu-icon-envelope
 
   # 我的:
-  #   音乐馆: /music/ || anzhiyu-icon-music
+     音乐馆: /music/ || anzhiyu-icon-music
   #   追番页: /bangumis/ || anzhiyu-icon-bilibili
   #   相册集: /album/ || anzhiyu-icon-images
-  #   小空调: /air-conditioner/ || anzhiyu-icon-fan
+     小空调: /air-conditioner/ || anzhiyu-icon-fan
 
   # 关于:
-  #   关于本人: /about/ || anzhiyu-icon-paper-plane
+     关于本人: /about/ || anzhiyu-icon-paper-plane
   #   闲言碎语: /essay/ || anzhiyu-icon-lightbulb
   #   随便逛逛: javascript:toRandomPost() || anzhiyu-icon-shoe-prints1
 
 # nav相关配置
 nav:
-  enable: false
+  enable: true
   travelling: false
-  clock: false
+  clock: true
   menu:
     - title: 网页
       item:
@@ -36,13 +36,13 @@ nav:
 # mourn （哀悼日，指定日期网站简单变灰，不包括滚动条）
 # 注意： 仅网站首页变灰，其他页面正常显示
 mourn:
-  enable: false
-  days: [4-5, 5-12, 7-7, 9-18, 12-13]
+  enable: true
+  days: [9-18, 12-13]
 
 # Code Blocks (代码相关)
 # --------------------------------------
 
-highlight_theme: light #  darker / pale night / light / ocean / mac / mac light / false
+highlight_theme: mac #  darker / pale night / light / ocean / mac / mac light / false
 highlight_copy: true # copy button
 highlight_lang: true # show the code language
 highlight_shrink: false # true: shrink the code blocks / false: expand the code blocks | none: expand code blocks and hide the button
@@ -62,8 +62,8 @@ copy:
 # formal:
 #   name: link || icon
 social:
-  # Github: https://github.com/anzhiyu-c || anzhiyu-icon-github
-  # BiliBili: https://space.bilibili.com/372204786 || anzhiyu-icon-bilibili
+   Github: https://github.com/Ingo-Quach || anzhiyu-icon-github
+   BiliBili: https://space.bilibili.com/39593776 || anzhiyu-icon-bilibili
 
 # 作者卡片 状态
 author_status:
@@ -155,7 +155,7 @@ cover:
   archives_enable: true
   # the position of cover in home page (封面显示的位置)
   # left/right/both
-  position: left
+  position: both
   # When cover is not set, the default cover is displayed (当没有设置cover时，默认的封面显示)
   default_cover:
     # - /img/default_cover.jpg
@@ -809,7 +809,7 @@ aside:
 
   card_announcement:
     enable: false
-    content: 欢迎来看我的博客鸭~
+    content: 欢迎来到我的博客喵喵喵
   card_weixin:
     enable: true
     face: https://bu.dusays.com/2023/01/13/63c02edf44033.png
@@ -856,7 +856,7 @@ busuanzi:
 # Formal: Month/Day/Year Time or Year/Month/Day Time
 runtimeshow:
   enable: true
-  publish_date: 4/1/2021 00:00:00
+  publish_date: 7/1/2025 00:00:00
 
 # Console - Newest Comments
 newest_comments:
@@ -1009,7 +1009,7 @@ instantpage: true
 # https://github.com/vinta/pangu.js
 # Insert a space between Chinese character and English character (中英文之间添加空格)
 pangu:
-  enable: false
+  enable: true
   field: site # site/post
 
 # Lazyload (图片懒加载)
@@ -1046,35 +1046,35 @@ css_prefix: true
 home_top:
   enable: true # 开关
   timemode: date #date/updated
-  title: 生活明朗
-  subTitle: 万物可爱。
+  title: 天才在左
+  subTitle: 我在右
   siteText: anheyu.com
   category:
-    - name: 前端
-      path: /categories/前端开发/
-      shadow: var(--anzhiyu-shadow-blue)
-      class: blue
-      icon: anzhiyu-icon-dove
+    #- name: 前端
+    #  path: /categories/前端开发/
+    #  shadow: var(--anzhiyu-shadow-blue)
+    #  class: blue
+    #  icon: anzhiyu-icon-dove
     - name: 大学
       path: /categories/大学生涯/
       shadow: var(--anzhiyu-shadow-red)
       class: red
       icon: anzhiyu-icon-fire
-    - name: 生活
-      path: /categories/生活日常/
+    - name: 人像摄影
+      path: /categories/人像摄影/
       shadow: var(--anzhiyu-shadow-green)
       class: green
-      icon: anzhiyu-icon-book
+      icon: anzhiyu-icon-camera
   default_descr: 再怎么看我也不知道怎么描述它的啦！
   swiper:
     enable: false
     swiper_css: https://npm.elemecdn.com/anzhiyu-theme-static@1.0.0/swiper/swiper.min.css #swiper css依赖
     swiper_js: https://npm.elemecdn.com/anzhiyu-theme-static@1.0.0/swiper/swiper.min.js #swiper js依赖
   banner:
-    tips: 新品主题
-    title: Theme-AnZhiYu
-    image: https://bu.dusays.com/2023/05/13/645fa3cf90d70.webp
-    link: https://docs.anheyu.com/
+    tips: Bilibili 频道
+    title: wumocrep/鼠小鸽 的频道
+    image: https://cdn.jsdelivr.net/gh/Ingo-Quach/webTuChuang@main/12c021dac7e0f50f1e6a29f54c1e2d76.jpg
+    link: https://space.bilibili.com/39593776
 
 # 朋友圈配置
 friends_vue:
@@ -1122,6 +1122,7 @@ comment_barrage_config:
 
 # 左下角音乐配置项
 # https://github.com/metowolf/MetingJS
+#保留之后改
 nav_music:
   enable: true
   console_widescreen_music: false # 宽屏状态控制台显示音乐而不是标签 enable为true 控制台依然会显示
@@ -1129,6 +1130,7 @@ nav_music:
   server: netease
   volume: 0.7 # 默认音量
   all_playlist: https://y.qq.com/n/ryqq/playlist/8802438608
+  #汉尼拔歌单：https://music.163.com/#/playlist?id=2222472664
 
 # 路径为 /music 的音乐页面默认加载的歌单 1. nav_music 2. custom
 music_page_default: nav_music
@@ -1142,9 +1144,9 @@ visitorMail:
 ptool:
   enable: true
   share_mobile: true
-  share_weibo: true
+  share_weibo: false
   share_copyurl: true
-  categories: false # 是否显示分类
+  categories: true # 是否显示分类
   mode: # 运营模式与责任，不配置不显示
 
 # 欢迎语配置
@@ -1216,11 +1218,11 @@ agreementPopup:
 
 # 右键菜单
 rightClickMenu:
-  enable: false
+  enable: true
 
 # 首页随便逛逛people模式 而非技能点模式，关闭后为技能点模式需要配置creativity.yml
 peoplecanvas:
-  enable: true
+  enable: false
   img: https://upload-bbs.miyoushe.com/upload/2024/07/27/125766904/ba62475f396df9de3316a08ed9e65d86_5680958632268053399..png
 
 # 动效
