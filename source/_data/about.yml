@@ -9,7 +9,7 @@
       - Cosplay 爱好者 📹
       - 分享与热心帮助 🔍
   name: 郭瑞诚 Ingo Quach
-  description: 是一名 学生、独立游戏开发者、博主、coser
+  description: 是一名 学生、独立游戏开发者、博主、Coser
   aboutsiteTips:
     tips: 追求
     title1: 因为喜欢
@@ -28,7 +28,7 @@
     tips: 生涯
     title: 永远怀着一颗学徒的心
     list:
-      - desc: EDU,计算机科学与技术专业
+      - desc: EDU：计算机科学与技术专业
         color: "#357ef5"
       
     img: https://bu.dusays.com/2023/04/21/644287166329b.png
@@ -52,7 +52,7 @@
     author_name: 竞选者 快乐小狗
     personality_type: ENFP
     photo_url: https://cdn.jsdelivr.net/gh/Ingo-Quach/webTuChuang@main/%E6%9C%AC%E4%BA%BA%E8%87%AA%E6%8B%8D.JPG
-    personality_img: https://cdn.jsdelivr.net/gh/Ingo-Quach/webTuChuang@main/ENFP.jpeg
+    personality_img: https://cdn.jsdelivr.net/gh/Ingo-Quach/webTuChuang@main/ENFP.png
     name_url: https://www.16personalities.com/ch/enfp-人格
   maxim:
     maxim_tips: 座右铭
@@ -100,4 +100,6 @@
     - name: Olivwd
       amount: B 站舰长
       datatime: 2024-11-18
-    
+    - name: Roy
+      amount: 0.01
+      datatime: 2025-01-08

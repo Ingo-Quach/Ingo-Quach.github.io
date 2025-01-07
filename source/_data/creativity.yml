@@ -10,20 +10,20 @@
       color: "#df5b40"
       icon: https://bu.dusays.com/2023/04/09/643293b10ccdd.webp
     - name: Unity
-      color: "#4D4D4D"
+      color: "#ffffff"
       icon: https://cdn.jsdelivr.net/gh/Ingo-Quach/webTuChuang@main/Unity.png
     - name: Davinci
       color: "#ffffff"
       icon: https://cdn.jsdelivr.net/gh/Ingo-Quach/webTuChuang@main/Davinci.jpeg
     - name: PostgreSQL
-      color: "#3366cc"
+      color: "#0099ff"
       icon: https://cdn.jsdelivr.net/gh/Ingo-Quach/webTuChuang@main/PostgreSQL.png
     - name: C++
-      color: "#3366cc"
+      color: "#0099ff"
       icon: https://cdn.jsdelivr.net/gh/Ingo-Quach/webTuChuang@main/C%2B%2B.png
     - name: C#
-      color: "#9f20f4"
+      color: "#7c2bb2"
       icon: https://cdn.jsdelivr.net/gh/Ingo-Quach/webTuChuang@main/C%23.png
     - name: ChatGPT
-      color: "#b147f7"
+      color: "#FCFCFC"
       icon: https://cdn.jsdelivr.net/gh/Ingo-Quach/webTuChuang@main/OpenAI.png
