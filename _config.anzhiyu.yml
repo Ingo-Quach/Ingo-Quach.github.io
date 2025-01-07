@@ -453,7 +453,7 @@ footer:
       #   shields: https://npm.elemecdn.com/anzhiyu-blog@2.2.0/img/badge/Copyright-BY-NC-SA.svg
       #   message: 本站采用知识共享署名-非商业性使用-相同方式共享4.0国际许可协议进行许可
   socialBar:
-    enable: false
+    enable: true
     centerImg:
     left:
        - title: email
@@ -811,7 +811,7 @@ aside:
     enable: false
     content: 欢迎来到我的博客喵喵喵
   card_weixin:
-    enable: true
+    enable: false
     face: https://bu.dusays.com/2023/01/13/63c02edf44033.png
     backFace: https://bu.dusays.com/2023/05/13/645fa415e8694.png
   card_recent_post:
@@ -832,6 +832,7 @@ aside:
     highlightTags:
       # - Hexo
       # - 前端
+      - Test
   card_archives:
     enable: true
     type: monthly # yearly or monthly
@@ -856,7 +857,7 @@ busuanzi:
 # Formal: Month/Day/Year Time or Year/Month/Day Time
 runtimeshow:
   enable: true
-  publish_date: 7/1/2025 00:00:00
+  publish_date: 1/7/2025 00:00:00
 
 # Console - Newest Comments
 newest_comments:

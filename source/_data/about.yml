@@ -6,8 +6,8 @@
       - ☕️ 精品咖啡爱好者
       - 🔨 设计开发一条龙
     right:
-      - cosplay 爱好者📹
-      - 🔍 分享与热心帮助
+      - Cosplay 爱好者 📹
+      - 分享与热心帮助 🔍
   name: 郭瑞诚 Ingo Quach
   description: 是一名 学生、独立游戏开发者、博主、coser
   aboutsiteTips:
@@ -20,7 +20,7 @@
       - 程序
       - 体验
       - 拍照
-  helloAbout: Hello world!
+  helloAbout: Hello World!
   skillsTips:
     tips: 技能
     title: 开启创造力
@@ -30,10 +30,7 @@
     list:
       - desc: EDU,计算机科学与技术专业
         color: "#357ef5"
-      - desc: EDU,
-        color: "#357ef5"
-      - desc: EDU,计算机科学与技术专业
-        color: "#357ef5"
+      
     img: https://bu.dusays.com/2023/04/21/644287166329b.png
   statistic:
     link: /archives
@@ -42,8 +39,8 @@
   map:
     title: 我现在住在
     StrengthenTitle: 中国，上海市
-    background: https://cdn.jsdelivr.net/gh/Ingo-Quach/webTuChuang@main/%E4%B8%8A%E6%B5%B7%E5%9C%B0%E5%9B%BE.jpg
-    backgroundDark: https://cdn.jsdelivr.net/gh/Ingo-Quach/webTuChuang@main/%E4%B8%8A%E6%B5%B7%E5%9C%B0%E5%9B%BE.jpg
+    background: https://cdn.jsdelivr.net/gh/Ingo-Quach/webTuChuang@main/%E4%B8%8A%E6%B5%B7%E5%B8%82.jpeg
+    backgroundDark: https://cdn.jsdelivr.net/gh/Ingo-Quach/webTuChuang@main/%E4%B8%8A%E6%B5%B7%E5%B8%82.jpeg
   selfInfo:
     selfInfoTips1: 生于
     selfInfoContentYear: 2004
@@ -76,23 +73,23 @@
     comic_list:
       - name: Overlord
         href: https://www.bilibili.com/bangumi/media/md2576
-        cover: https://i0.hdslb.com/bfs/bangumi/b8e72ea69e57e0b7ac85d8b4d366554fd866df1a.jpg@450w_600h.jpg
+        cover: https://cdn.jsdelivr.net/gh/Ingo-Quach/webTuChuang@main/Overlord.jpg
       - name: 咒术回战
         href: https://www.bilibili.com/bangumi/media/md28229899/?spm_id_from=666.25.b_6d656469615f6d6f64756c65.1
         cover: https://bu.dusays.com/2023/05/24/646db4398832e.webp
       - name: 灵笼
         href: https://www.bilibili.com/bangumi/media/md23432
-        cover: https://i0.hdslb.com/bfs/bangumi/image/cfab7e0fbdb4786ff4e885d050b7cf37f8829486.png@450w_600h.png
+        cover: https://cdn.jsdelivr.net/gh/Ingo-Quach/webTuChuang@main/%E7%81%B5%E7%AC%BC.png
       - name: 鬼灭之刃
         href: https://www.bilibili.com/bangumi/media/md22718131/?spm_id_from=666.25.b_6d656469615f6d6f64756c65.1
         cover: https://bu.dusays.com/2023/05/24/646db439856a0.webp
       - name: 异世界食堂
         href: https://www.bilibili.com/bangumi/media/md6310
-        cover: https://i0.hdslb.com/bfs/bangumi/50667c394c8307fa7b49d3f362adebd5154b2997.jpg@450w_600h.jpg
+        cover: https://cdn.jsdelivr.net/gh/Ingo-Quach/webTuChuang@main/%E5%BC%82%E4%B8%96%E7%95%8C%E9%A3%9F%E5%A0%82.jpg
   like:
     like_tips: 关注偏好
     like_title: 独立游戏
-    like_bg: https://cdn.jsdelivr.net/gh/Ingo-Quach/webTuChuang@main/%E7%8B%AC%E7%AB%8B%E6%B8%B8%E6%88%8F.jpeg
+    like_bg: https://cdn.jsdelivr.net/gh/Ingo-Quach/webTuChuang@main/%E7%8B%AC%E7%AB%8B%E6%B8%B8%E6%88%8F_The_Witness.jpg
     like_bottom: Steam 独立游戏
   music:
     music_tips: 音乐偏好
