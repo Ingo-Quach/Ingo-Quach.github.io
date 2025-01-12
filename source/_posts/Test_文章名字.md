@@ -8,7 +8,7 @@ tags:
 - Test tag
 title: Test_Title
 top_img: https://cdn.jsdelivr.net/gh/Ingo-Quach/webTuChuang@main/sample_image.JPG
-updated: '2025-01-12T22:02:03.659+08:00'
+updated: '2025-01-12T22:12:43.061+08:00'
 ---
 # Test_Heading
 
@@ -16,4 +16,4 @@ updated: '2025-01-12T22:02:03.659+08:00'
 
 ## My Test img
 
-![sample_image.JPG](https://cdn.jsdelivr.net/gh/Ingo-Quach/webTuChuang@main/Qexo/25/1/sample_image_44d6a30bc46568d38873ac945b3dd9ba.JPG)
+![941233951.png](https://cdn.jsdelivr.net/gh/Ingo-Quach/webTuChuang@main/Qexo/25/1/941233951_77e3dbfe67cb6c31e2fa542f77272174.png)
