@@ -28,10 +28,15 @@
     tips: 生涯
     title: 永远怀着一颗学徒的心
     list:
-      - desc: EDU：计算机科学与技术专业
-        color: "#357ef5"
-      
-    img: https://bu.dusays.com/2023/04/21/644287166329b.png
+      - desc: 阿怕的奇妙之旅
+        color: "#669c35"
+      - desc: FDU：计算机科学与技术专业
+        color: "#ff9300"
+      - desc: Cosplay 与人像摄影
+        color: "#008cb4"
+      - desc: XACADEMY
+        color: "#a8a8a8"
+    img: https://cdn.jsdelivr.net/gh/Ingo-Quach/webTuChuang@main/%E6%97%B6%E9%97%B4%E8%BD%B4%202024%20%E5%B9%B4%E7%89%88.png
   statistic:
     link: /archives
     text: 文章隧道

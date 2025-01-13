@@ -1058,8 +1058,8 @@ home_top:
     #  shadow: var(--anzhiyu-shadow-blue)
     #  class: blue
     #  icon: anzhiyu-icon-dove
-    - name: 大学
-      path: /categories/大学/
+    - name: 大学生涯
+      path: /categories/大学生涯/
       shadow: vvar(--anzhiyu-shadow-blue)
       class: blue
       icon: anzhiyu-icon-folder-open
