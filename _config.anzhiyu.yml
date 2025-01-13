@@ -1058,11 +1058,11 @@ home_top:
     #  shadow: var(--anzhiyu-shadow-blue)
     #  class: blue
     #  icon: anzhiyu-icon-dove
-    - name: 大学生涯
-      path: /categories/大学生涯/
-      shadow: var(--anzhiyu-shadow-red)
-      class: red
-      icon: anzhiyu-icon-fire
+    - name: 大学
+      path: /categories/大学/
+      shadow: vvar(--anzhiyu-shadow-blue)
+      class: blue
+      icon: anzhiyu-icon-folder-open
     - name: 人像摄影
       path: /categories/人像摄影/
       shadow: var(--anzhiyu-shadow-green)
@@ -1070,9 +1070,9 @@ home_top:
       icon: anzhiyu-icon-images
     - name: 精品咖啡
       path: /categories/精品咖啡/
-      shadow: var(--anzhiyu-shadow-blue)
-      class: blue
-      icon: <FontAwesomeIcon icon="fa-solid fa-coffee-bean" />
+      shadow: var(--anzhiyu-shadow-red)
+      class: red
+      icon: anzhiyu-icon-fire
   default_descr: 再怎么看我也不知道怎么描述它的啦！
   swiper:
     enable: false
