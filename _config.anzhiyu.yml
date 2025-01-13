@@ -459,7 +459,7 @@ footer:
     centerImg:
     left:
        - title: email
-         link: ingoquach@163.com
+         link: mailto:ingoquach@163.com
          icon: anzhiyu-icon-envelope
       # - title: 微博
       #   link: https://weibo.com/u/6378063631
@@ -975,7 +975,7 @@ note:
 
 icons:
   ali_iconfont_js: # 阿里图标symbol 引用链接，主题会进行加载 symbol 引用
-  fontawesome: false #是否启用fontawesome6图标
+  fontawesome: true #是否启用fontawesome6图标
   fontawesome_animation_css: #fontawesome_animation 如果有就会加载，示例值：https://npm.elemecdn.com/hexo-butterfly-tag-plugins-plus@1.0.17/lib/assets/font-awesome-animation.min.css
 
 # other
@@ -1067,12 +1067,12 @@ home_top:
       path: /categories/人像摄影/
       shadow: var(--anzhiyu-shadow-green)
       class: green
-      icon: anzhiyu-icon-camera
+      icon: anzhiyu-icon-images
     - name: 精品咖啡
       path: /categories/精品咖啡/
-      shadow: var(--anzhiyu-shadow-green)
+      shadow: var(--anzhiyu-shadow-brown)
       class: brown
-      icon: anzhiyu-icon-coffe
+      icon: <FontAwesomeIcon icon="fa-solid fa-coffee-bean" />
   default_descr: 再怎么看我也不知道怎么描述它的啦！
   swiper:
     enable: false
