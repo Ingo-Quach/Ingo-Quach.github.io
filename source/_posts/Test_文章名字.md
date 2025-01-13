@@ -3,7 +3,7 @@ abbrlink: ''
 categories:
 - - Test categories
 - - 人像摄影
-- - 大学
+- - 大学生涯
 cover: https://cdn.jsdelivr.net/gh/Ingo-Quach/webTuChuang@main/sample_image.JPG
 date: '2025-01-07T03:15:33.713162+08:00'
 excerpt: Test_Heading 这是个测试博客 
