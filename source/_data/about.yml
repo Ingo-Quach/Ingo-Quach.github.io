@@ -100,7 +100,7 @@
     music_tips: 音乐偏好
     music_title: 草东没有派对、古典音乐
     music_bg: https://cdn.jsdelivr.net/gh/Ingo-Quach/webTuChuang@main/%E8%8D%89%E4%B8%9C%E6%B2%A1%E6%9C%89%E6%B4%BE%E5%AF%B9.jpg
-    music_link: /music
+    music_link: /music/
   reward_list:
     - name: Olivwd
       amount: B 站舰长
