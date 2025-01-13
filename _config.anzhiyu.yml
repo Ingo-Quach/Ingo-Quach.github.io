@@ -7,7 +7,7 @@ menu:
   # 友链:
   #   友人帐: /link/ || anzhiyu-icon-link
   #   朋友圈: /fcircle/ || anzhiyu-icon-artstation
-     留言板: /comments/ || anzhiyu-icon-envelope
+  #   留言板: /comments/ || anzhiyu-icon-envelope
 
    我的:
      音乐馆: /music/ || anzhiyu-icon-music
@@ -71,10 +71,12 @@ author_status:
   # 可以是任何图片，建议放表情包或者emoji图片，效果都很好，[表情包速查](https://emotion.xiaokang.me/)
   statusImg: "https://bu.dusays.com/2023/08/24/64e6ce9c507bb.png"
   skills:
-    # - 🤖️ 数码科技爱好者
-    # - 🔍 分享与热心帮助
+    - ☕️ 精品咖啡爱好者
+    - 🔨 设计开发一条龙
+    - 🤖️ 数码科技爱好者
+    - 🔍 分享与热心帮助
     # - 🏠 智能家居小能手
-    # - 🔨 设计开发一条龙
+    - 🔨 设计开发一条龙
     # - 🤝 专修交互与设计
     # - 🏃 脚踏实地行动派
     # - 🧱 团队小组发动机
@@ -704,7 +706,7 @@ activate_power_mode:
 
 # Mouse click effects: fireworks (鼠标点击效果: 烟火特效)
 fireworks:
-  enable: false
+  enable: true
   zIndex: 9999 # -1 or 9999
   mobile: false
 
