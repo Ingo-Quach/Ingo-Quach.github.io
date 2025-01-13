@@ -2,13 +2,13 @@
 abbrlink: ''
 categories:
 - - Test categories
+- - 人像摄影
+- - 大学
 cover: https://cdn.jsdelivr.net/gh/Ingo-Quach/webTuChuang@main/sample_image.JPG
 date: '2025-01-07T03:15:33.713162+08:00'
 excerpt: Test_Heading 这是个测试博客 
 tags:
 - Test tag
-- 人像摄影
-- 大学
 title: Test_Title
 top_img: https://cdn.jsdelivr.net/gh/Ingo-Quach/webTuChuang@main/sample_image.JPG
 updated: '2025-01-13T20:26:53.547+08:00'
