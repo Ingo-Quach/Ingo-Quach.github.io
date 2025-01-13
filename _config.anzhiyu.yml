@@ -69,7 +69,7 @@ social:
 author_status:
   enable: true
   # 可以是任何图片，建议放表情包或者emoji图片，效果都很好，[表情包速查](https://emotion.xiaokang.me/)
-  statusImg: "https://bu.dusays.com/2023/08/24/64e6ce9c507bb.png"
+  statusImg: "https://bu.dusays.com/2021/01/15/3508bec04270f.png"
   skills:
     - ☕️ 精品咖啡爱好者
     - 🔨 设计开发一条龙
@@ -1058,7 +1058,7 @@ home_top:
     #  shadow: var(--anzhiyu-shadow-blue)
     #  class: blue
     #  icon: anzhiyu-icon-dove
-    - name: 大学
+    - name: 大学生涯
       path: /categories/大学生涯/
       shadow: var(--anzhiyu-shadow-red)
       class: red
@@ -1068,6 +1068,11 @@ home_top:
       shadow: var(--anzhiyu-shadow-green)
       class: green
       icon: anzhiyu-icon-camera
+    - name: 精品咖啡
+      path: /categories/精品咖啡/
+      shadow: var(--anzhiyu-shadow-green)
+      class: brown
+      icon: anzhiyu-icon-coffe
   default_descr: 再怎么看我也不知道怎么描述它的啦！
   swiper:
     enable: false
