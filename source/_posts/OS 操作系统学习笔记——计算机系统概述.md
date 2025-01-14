@@ -6,9 +6,9 @@ categories:
 date: '2025-01-15T01:55:01.906022+08:00'
 tags:
 - 操作系统
-title: OS 操作系统学习笔记——计算机系统概述
-'top_img: ': https://cdn.jsdelivr.net/gh/Ingo-Quach/webTuChuang@main/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%96%87%E7%AB%A0%E5%B0%81%E9%9D%A2.webp
-updated: '2025-01-15T01:57:32.499+08:00'
+title: 操作系统学习笔记——计算机系统概述
+top_img: : https://cdn.jsdelivr.net/gh/Ingo-Quach/webTuChuang@main/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%96%87%E7%AB%A0%E5%B0%81%E9%9D%A2.webp
+updated: '2025-01-15T02:05:43.069+08:00'
 ---
 # 计算机系统概述
 
