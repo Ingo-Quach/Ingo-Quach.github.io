@@ -1,5 +1,5 @@
 ---
-abbrlink: ''
+abbrlink: 这是一个测试缩写
 categories:
 - - Test categories
 - - 人像摄影
@@ -12,7 +12,7 @@ tags:
 - Test tag
 title: Test_Title
 top_img: https://cdn.jsdelivr.net/gh/Ingo-Quach/webTuChuang@main/sample_image.JPG
-updated: '2025-01-13T20:26:53.547+08:00'
+updated: '2025-01-15T02:11:22.392+08:00'
 ---
 # Test_Heading
 
