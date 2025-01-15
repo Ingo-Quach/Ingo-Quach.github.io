@@ -50,8 +50,9 @@ updated: '2025-01-15T02:15:23.872+08:00'
   * 自动性：自动依次运行
   * 顺序性：完成顺序 = 进入顺序
   * 单道性：内存只有一道作业
+  * 资源无法得到有效利用
 
-![](https://mkls0roncu.feishu.cn/space/api/box/stream/download/asynccode/?code=ODUwY2RlNjY0ZTFhNWI4ZTcyNGEyYjBjZWFmNmU4ZmRfaENObnQxMkJ4cmtXeEhPT0Y5aGNsMXpaYmhZUGdtdHdfVG9rZW46V211RmIyWkIwb3JHd0R4ejJMWGNiT2pibjNmXzE3MzY4NzczODQ6MTczNjg4MDk4NF9WNA)
+![](https://cdn.jsdelivr.net/gh/Ingo-Quach/webTuChuang@main/Qexo/25/1/IMG_1106_f76d4b278feadd3a2c1cbf1441c06745.jpg)
 
 ## 操作系统的结构
 
