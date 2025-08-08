@@ -5,9 +5,6 @@ db.json
 node_modules/
 public/
 .deploy*/
-<<<<<<< HEAD
 .deploy_git*/
 .idea
-=======
 _multiconfig.yml
->>>>>>> 9bb92c85d69de01e63906fc967d0f6338f82201c
