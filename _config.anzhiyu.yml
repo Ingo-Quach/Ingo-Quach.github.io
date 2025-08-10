@@ -807,7 +807,7 @@ aside:
     category: true
   card_author:
     enable: true
-    description: <div style="line-height:1.38;margin:0.6rem 0;text-align:justify;color:rgba(255, 255, 255, 0.8);max-width:200px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">这里是一个在学习 CS 和一些奇怪的东西的学生的记事簿，可能会有日常趣事的分享(?)</div><div style="line-height:1.38;margin:0.6rem 0;text-align:justify;color:rgba(255, 255, 255, 0.8);max-width:200px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">不过你应该可以在这里找到对你有用的知识和教程\\(@'v'@)/*</div>
+    description: <div style="line-height:1.38;margin:0.6rem 0;text-align:justify;color:rgba(255, 255, 255, 0.8);max-width:200px;">这里是一个在学习 CS 和</div><div style="line-height:1.38;margin:0.6rem 0;text-align:justify;color:rgba(255, 255, 255, 0.8);max-width:200px;">一些奇怪的东西的学生的记事簿</div><div style="line-height:1.38;margin:0.6rem 0;text-align:justify;color:rgba(255, 255, 255, 0.8);max-width:200px;">可能会有日常趣事的分享(?)</div><div style="line-height:1.38;margin:0.6rem 0;text-align:justify;color:rgba(255, 255, 255, 0.8);max-width:200px;">不过你应该可以在这里找到</div><div style="line-height:1.38;margin:0.6rem 0;text-align:justify;color:rgba(255, 255, 255, 0.8);max-width:200px;">对你有用的知识和教程\\(@'v'@)/*</div>
     name_link: /
 
   card_announcement:
