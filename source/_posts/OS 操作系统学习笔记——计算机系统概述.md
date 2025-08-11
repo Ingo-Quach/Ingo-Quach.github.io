@@ -2,13 +2,13 @@
 abbrlink: ''
 categories:
 - - 大学生涯
-cover: https://cdn.jsdelivr.net/gh/Ingo-Quach/webTuChuang@main/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%96%87%E7%AB%A0%E5%B0%81%E9%9D%A2.jpg
+cover: https://cdn.jsdelivr.net/gh/Ingo-Quach/webTuChuang@main/Qexo/25/8/OS概述_12e3d310c6e2fa992254ab57354e8afd.jpg
 date: '2025-01-15T01:55:01.906022+08:00'
 tags:
 - 操作系统
 title: 操作系统学习笔记——计算机系统概述
 top_img: https://cdn.jsdelivr.net/gh/Ingo-Quach/webTuChuang@main/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%96%87%E7%AB%A0%E5%B0%81%E9%9D%A2.jpg
-updated: '2025-01-15T02:15:23.872+08:00'
+updated: '2025-08-11T16:56:25.131+08:00'
 ---
 # 计算机系统概述
 
